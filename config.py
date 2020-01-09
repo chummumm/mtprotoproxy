@@ -1,4 +1,4 @@
-PORT = 443
+PORT = 1973
 
 # name -> secret (32 hex chars)
 USERS = {
